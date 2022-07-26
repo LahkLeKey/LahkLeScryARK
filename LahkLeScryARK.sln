@@ -4,6 +4,8 @@ VisualStudioVersion = 17.0.31611.283
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LahkLeScryARK", "LahkLeScryARK.csproj", "{5DC8C93E-622F-4A0E-8746-041DD0617FFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LahkLeDiscord", "..\LahkLeDiscord\LahkLeDiscord.csproj", "{E7A374D2-6C84-4F28-8005-67065C7ACED6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -16,6 +18,10 @@ Global
 		{5DC8C93E-622F-4A0E-8746-041DD0617FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DC8C93E-622F-4A0E-8746-041DD0617FFF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5DC8C93E-622F-4A0E-8746-041DD0617FFF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E7A374D2-6C84-4F28-8005-67065C7ACED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A374D2-6C84-4F28-8005-67065C7ACED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A374D2-6C84-4F28-8005-67065C7ACED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A374D2-6C84-4F28-8005-67065C7ACED6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

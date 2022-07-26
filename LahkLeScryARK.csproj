@@ -49,4 +49,8 @@
         <MauiAsset Include="Resources\Raw\**" LogicalName="%(RecursiveDir)%(Filename)%(Extension)" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\LahkLeDiscord\LahkLeDiscord.csproj" />
+    </ItemGroup>
+
 </Project>
